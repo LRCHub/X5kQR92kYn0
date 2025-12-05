@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君の神様になりたい",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-05T14:34:37.150270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の神様になりたい",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/01_君の神様になりたい_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の神様になりたい。",
+      "artist": "こはならむ",
+      "has_synced": true,
+      "path": "select/02_君の神様になりたい。_こはならむ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君の神様になりたい",
+      "artist": "Iori Kanzaki",
+      "has_synced": true,
+      "path": "select/03_君の神様になりたい_Iori_Kanzaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君の神様になりたい。",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_君の神様になりたい。_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の神様になりたい",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_君の神様になりたい_カンザキイオリ.txt"
+    }
+  ]
+}
